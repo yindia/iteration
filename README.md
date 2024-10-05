@@ -1,5 +1,11 @@
 # Task Service - Case Study
 
+New Release [TBD]
+- Versioning
+- Divide control plane and data plane 
+  - Replace Revierqueue with k8s controller
+  - Introduce Agent 
+
 <a href="https://vimeo.com/1014374705">
   <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fvimeo.com%2F1014374705" alt="Task Service " title="Task Service " width="100%" height="100%"/>
 </a>
